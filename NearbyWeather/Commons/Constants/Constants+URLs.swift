@@ -10,7 +10,7 @@ import Foundation
 extension Constants {
   
   enum EmailAdresses {
-    static let mainContact = "barakahassan7@gmail.com"
+    static let mainContact = "https://mail.google.com/barakahassan7@gmail.com"
   }
   
   enum Urls {
@@ -26,7 +26,7 @@ extension Constants {
     static let kOpenWeatherMapInstructionsUrl = URL(string: "https://openweathermap.org/appid")!
     
     static func kOpenWeatherMapCityDetailsUrl(forCityWithName name: String) -> URL {
-      return URL(string: "https://openweathermap.org/find?q=\(name)")!
+        return (URL(string: "https://openweathermap.org/find?q=\(name)"))!
     }
     
     static func kOpenWeatherMapSingleStationtDataRequestUrl(with apiKey: String, stationIdentifier identifier: Int) -> URL {
