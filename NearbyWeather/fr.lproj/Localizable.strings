@@ -2,9 +2,8 @@
  Localizable.strings
  NearbyWeather
  
- Created by Pierre-Yves Lapersonne on 02.08.2019
- Copyright © 2019 Pierre-Yves Lapersonne. All rights reserved.
- */
+  Created by hassan Baraka on 05.27.21.
+  Copyright © 2021 hassan Baraka. All rights reserved. */
 
 tab_weatherList = "Liste";
 tab_weatherMap = "Carte";

@@ -2,9 +2,8 @@
 //  UINavigationItemExtensions.swift
 //  NearbyWeather
 //
-//  Created by Erik Maximilian Martens on 15.01.18.
-//  Copyright © 2018 Erik Maximilian Martens. All rights reserved.
-//
+//  Created by hassan Baraka on 05.27.21.
+//  Copyright © 2021 hassan Baraka. All rights reserved.
 
 import UIKit.UINavigationItem
 

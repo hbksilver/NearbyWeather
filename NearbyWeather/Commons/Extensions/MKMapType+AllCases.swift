@@ -2,9 +2,8 @@
 //  MKMapType+AllCases.swift
 //  NearbyWeather
 //
-//  Created by Erik Maximilian Martens on 09.02.20.
-//  Copyright © 2020 Erik Maximilian Martens. All rights reserved.
-//
+//  Created by hassan Baraka on 05.27.21.
+//  Copyright © 2021 hassan Baraka. All rights reserved.
 
 import MapKit
 

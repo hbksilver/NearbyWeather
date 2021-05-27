@@ -2,9 +2,8 @@
 //  BadgeService.swift
 //  NearbyWeather
 //
-//  Created by Lukas Prokein on 20/10/2018.
-//  Copyright © 2018 Erik Maximilian Martens. All rights reserved.
-//
+//  Created by hassan Baraka on 05.27.21.
+//  Copyright © 2021 hassan Baraka. All rights reserved.
 
 import UIKit
 import UserNotifications
