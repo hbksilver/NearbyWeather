@@ -8,7 +8,7 @@
       "de": "Kleinere Fehlerbehebungen",
       "fr": "Corrections de bugs mineurs"
     },
-		"urlString": "https://github.com/hbksilver"
+		"urlString": "https://github.com/hbksilver/NearbyWeather"
 	}, {
 		"firstName": "Hassan ",
 		"lastName": "Baraka",
@@ -17,7 +17,7 @@
       "de": "Konvertierung zu Swift 5.0, Beseitigung von Compiler-Warnungen",
       "fr": "Conversion en Swift 5.0, Éliminer les avertissements du compilateur"
     },
-		"https://github.com/hbksilver"
+		"https://github.com/hbksilver/NearbyWeather"
 	}, {
 		"firstName": "Hassan",
 		"lastName": "Baraka",
@@ -26,7 +26,7 @@
       "de": "CocoaPods zu Git-Ignore-Liste hinzugefügt",
       "fr": "CocoaPods ajouté à la liste des ignorés de Git"
     },
-		"urlString": "https://github.com/hbksilver"
+		"urlString": "https://github.com/hbksilver/NearbyWeather"
 	}, {
 		"firstName": "Hassan",
 		"lastName": "Baraka",
@@ -35,7 +35,7 @@
       "de": "Französische Übersetzung, verschiedene Code-Bereinigungen",
       "fr": "Traduction française, divers nettoyages de code"
     },
-		"urlString": "https://github.com/hbksilver"
+		"urlString": "https://github.com/hbksilver/NearbyWeather"
 	}, {
     "firstName": "Hassan",
     "lastName": "Baraka",
@@ -44,7 +44,7 @@
       "de": "Termperatur als Benachrichtigung auf dem App-Icon",
       "fr": "Température sous forme de notification sur l'icône de l'application"
     },
-    "urlString": "https://github.com/hbksilver"
+    "urlString": "https://github.com/hbksilver/NearbyWeather"
   }, {
     "firstName": "Hassan",
     "lastName": "Baraka",
@@ -53,6 +53,6 @@
       "de": "Übersetzungen für Traditionelles Chinesisch",
       "fr": "Traductions chinoises traditionnelles"
     },
-    "urlString": "https://github.com/hbksilver"
+    "urlString": "https://github.com/hbksilver/NearbyWeather"
   }]
 }
