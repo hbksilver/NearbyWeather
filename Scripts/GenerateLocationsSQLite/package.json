@@ -1,0 +1,19 @@
+{
+  "name": "generate-locations-sqlite-database",
+  "version": "1.0.1",
+  "description": "Generates a sqlite database using locations via http://bulk.openweathermap.org/sample/",
+  "main": "main.js",
+  "homepage": "https://github.com/erikmartens/nearbyweather",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "better-sqlite3": "^7.1.2",
+    "stream-json": "^0.6.1",
+    "zlib": "^1.0.5",
+    "ora": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}

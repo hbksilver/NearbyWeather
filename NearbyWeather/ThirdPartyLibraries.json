@@ -1,0 +1,43 @@
+{
+	"elements": 
+	[{
+		"name": "Alamofire",
+		"urlString": "https://github.com/Alamofire/Alamofire"
+	}, {
+		"name": "APTimeZones",
+		"urlString": "https://github.com/Alterplay/APTimeZones"
+	}, {
+		"name": "FMDB",
+		"urlString": "https://github.com/ccgus/fmdb"
+	}, {
+		"name": "PKHUD",
+		"urlString": "https://github.com/pkluz/PKHUD"
+	}, {
+		"name": "R.swift",
+		"urlString": "https://github.com/mac-cain13/R.swift"
+	}, {
+		"name": "TextFieldCounter",
+		"urlString": "https://github.com/serralvo/TextFieldCounter"
+	}, {
+    "name": "SwiftLint",
+    "urlString": "https://github.com/realm/SwiftLint"
+  }, {
+    "name": "Fastlane",
+    "urlString": "https://fastlane.tools/"
+  }, {
+    "name": "Firebase Analytics",
+    "urlString": "https://firebase.google.com/"
+  }, {
+    "name": "Firebase Crashlytics",
+    "urlString": "https://firebase.google.com/"
+  }, {
+    "name": "RxSwift",
+    "urlString": "https://github.com/ReactiveX/RxSwift"
+  }, {
+    "name": "RxCocoa",
+    "urlString": "https://github.com/ReactiveX/RxSwift/tree/master/RxCocoa"
+  }, {
+    "name": "RxFlow",
+    "urlString": "https://github.com/RxSwiftCommunity/RxFlow"
+  }]
+}

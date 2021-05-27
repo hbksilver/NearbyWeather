@@ -1,0 +1,13 @@
+{
+	"elements": 
+	[{
+		"firstName": "Hassan",
+		"lastName": "Baraka",
+    "contributionDescription": {
+      "en": "Product Owner",
+      "de": "Product Owner",
+      "fr": "Responsable de Produit"
+    },
+		"urlString": "https://www.linkedin.com/in/hassan-baraka-012271134/"
+	}]
+}
